@@ -1,0 +1,14 @@
+{
+  "name": "guess_the_password",
+  "version": "1.0.0",
+  "description": "Password Guess Game With JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serdar Cankaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
